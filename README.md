@@ -25,34 +25,6 @@
 </div>
 
 <br/>
-
-<div>
-  <!-- Tecnologias já conhecidas -->
-  <h3>Main Skills: </h3>
-    <img alt="GitHub" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="126" height="28">
-    <img alt="MySQL" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" width="100" height="28">
-    <img alt="GitHub" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="GitHub" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-    <img alt="GitHub" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-  
-  <br/>
-  <!-- Tecnologias já conhecidas -->
-  <h3>Tools: </h3>
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007acc&labelColor=0D1117">
-    
-  
-  <br/>
-  <!-- Tecnologias já conhecidas -->
-  <h3>Other Knowledge: </h3>
-    <img alt="Git" src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=f05033&labelColor=0D1117">
- 
-  <br/>
-  <!-- Tecnologias que estou aprendendo -->
-</div>
-
-<br/>
 <br/>
 <br/>
 
