@@ -3,7 +3,7 @@
 
 <!-- Typing intro -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1500&color=B164E3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Software+Engineer+%7C+Rio+de+Janeiro%2C+Brazil;Backend+%2B+automation+%2B+the+occasional+frontend" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1500&color=B164E3&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Software+Engineer+%7C+Rio+de+Janeiro%2C+Brazil;Java+%E2%80%A2+Python+%E2%80%A2+TypeScript" alt="Typing SVG" /></a>
 </div>
 
 <br/>
@@ -46,20 +46,6 @@
   </a>
 </div>
 
-<br/>
-
-<!-- Activity graph -->
-[![Miguel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelwiest&bg_color=0d1117&color=ffffff&line=9E39E3&point=E24AFA&area=true&area_color=7C3FFD&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-<!-- Stats cards -->
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=miguelwiest&show_icons=true&count_private=true&hide_border=true&title_color=E24AFA&icon_color=7C3FFD&text_color=ffffff&bg_color=0d1117" alt="Miguel Wiest github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelwiest&hide_border=true&title_color=E24AFA&text_color=ffffff&bg_color=0d1117" alt="Languages Graph" />
-</div>
-
-<br/>
 <br/>
 <br/>
 
