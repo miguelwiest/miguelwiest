@@ -1,26 +1,61 @@
-<!-- Imagem do topo-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9E39E3&height=150&section=header&text=Miguel+Wiest&fontColor=ffffff&fontSize=30&fontAlignY=35"/>
+<!-- Header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9E39E3&height=150&section=header&text=Miguel%20Wiest&fontColor=ffffff&fontSize=30&fontAlignY=35"/>
 
-<!-- Escrita centralizada , pra criar a sua, use o link https://readme-typing-svg.demolab.com/demo/-->
-<div align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=39&height=100&pause=1500&color=B164E3&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Be+Welcome!+%3D+%5D" alt="Typing SVG" /></a>
+<!-- Typing intro -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1500&color=B164E3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Software+Engineer+%7C+Rio+de+Janeiro%2C+Brazil;Backend+%2B+automation+%2B+the+occasional+frontend" alt="Typing SVG" /></a>
 </div>
 
 <br/>
 
-<!-- Breve apresentação -->
-<!-- <p align="center">Since I've worked with data analysis on google sheets I noticed have a way with it and became passionate about it. Now I decided to learn more and I'm studying to be a Data Scientist </p> -->
+<!-- About -->
+<p align="center">
+  Software engineer building backend services, automation tooling, and web apps &mdash;<br/>
+  mostly with Java/Spring Boot, Python and TypeScript. Comfortable across the stack,<br/>
+  from Domain-Driven Design on the backend to Vue/React on the front.
+</p>
 
 <br/>
 
-<!-- Gráfico de commits/dia do mês https://github.com/ashutosh00710/github-readme-activity-graph-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelwiest&bg_color=0d1117&color=ffffff&line=9E39E3&point=E24AFA&area=true&area_color=7C3FFD&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Tech stack -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
 <br/>
 
-<!-- os 2 cards de stats https://github.com/anuraghazra/github-readme-stats-->
-<div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=miguelwiest&show_icons=true&count_private=true&hide_border=true&title_color=E24AFA&icon_color=7C3FFD&text_color=ffffff&bg_color=0d1117" alt="Miguel Wiest github stats" /> 
+<!-- Contact -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/miguel-wiest" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:wiestmiguel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/miguelwiest" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Activity graph -->
+[![Miguel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelwiest&bg_color=0d1117&color=ffffff&line=9E39E3&point=E24AFA&area=true&area_color=7C3FFD&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<!-- Stats cards -->
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=miguelwiest&show_icons=true&count_private=true&hide_border=true&title_color=E24AFA&icon_color=7C3FFD&text_color=ffffff&bg_color=0d1117" alt="Miguel Wiest github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelwiest&hide_border=true&title_color=E24AFA&text_color=ffffff&bg_color=0d1117" alt="Languages Graph" />
 </div>
 
@@ -28,5 +63,5 @@
 <br/>
 <br/>
 
-<!-- imagem reflexo da do topo -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B164E3&height=120&section=footer"/>
+<!-- Footer banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B164E3&height=120&section=footer"/>
